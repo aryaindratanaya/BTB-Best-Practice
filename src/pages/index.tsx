@@ -12,7 +12,7 @@ export default function Home() {
 
       <h1>BTB Best Practice Reference</h1>
       <p>
-        This repo is made as a reference of a best-practice way to fresh start a
+        This repo is made as a reference of a best-practice way to fresh start a{' '}
         <strong>Next.js</strong> project.
       </p>
     </>
