@@ -24,6 +24,7 @@
   "devDependencies": {
     "husky": ">=6",
     "lint-staged": ">=10",
-    "prettier": "^2.8.4"
+    "prettier": "^2.8.4",
+    "sass": "^1.58.0"
   }
 }
