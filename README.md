@@ -5,7 +5,7 @@ This repo is made as a reference of a best-practice way to fresh start a [Next.j
 First, install the dependencies:
 
 ```bash
-yarn dev
+yarn
 ```
 
 Then, run the development server:
